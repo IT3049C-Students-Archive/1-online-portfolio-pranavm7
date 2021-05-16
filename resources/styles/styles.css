@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20%;
+}
+
+#top-box {
+  display: flex;
+  gap: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
