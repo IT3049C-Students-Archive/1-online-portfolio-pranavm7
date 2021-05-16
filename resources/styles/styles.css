@@ -4,6 +4,15 @@
   gap: 20%;
 }
 
+.container h1 {
+  width: 100%;
+}
+
+.container hr {
+  width: 100%;
+  color: black;
+}
+
 #top-box {
   display: flex;
   gap: 5%;
